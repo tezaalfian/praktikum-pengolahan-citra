@@ -18,4 +18,4 @@ Dalam project ini terdapat beberapa contoh pengolahan citra menggunakan library 
 - Grayscale to binary without library
 - Print pixel on specific index
 
-[_Intelligent Computing Laboratory_](https://github.com/user/repo/blob/branch/other_file.md)
+[_Intelligent Computing Laboratory_](https://www.instagram.com/seic_itpln/)
