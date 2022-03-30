@@ -17,5 +17,10 @@ Dalam project ini terdapat beberapa contoh pengolahan citra menggunakan library 
 - RGB to grayscale without library
 - Grayscale to binary without library
 - Print pixel on specific index
+#### Praktikum 3
+- Pixel operation
+- Histogram
+- Brightness
+- Contrass
 
 [_Intelligent Computing Laboratory_](https://www.instagram.com/seic_itpln/)
