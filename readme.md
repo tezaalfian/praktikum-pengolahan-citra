@@ -22,5 +22,8 @@ Dalam project ini terdapat beberapa contoh pengolahan citra menggunakan library 
 - Histogram
 - Brightness
 - Contrass
+- Negative image
+- Cutting gray level
+- Equalization
 
 [_Intelligent Computing Laboratory_](https://www.instagram.com/seic_itpln/)
