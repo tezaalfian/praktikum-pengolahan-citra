@@ -25,5 +25,10 @@ Dalam project ini terdapat beberapa contoh pengolahan citra menggunakan library 
 - Negative image
 - Cutting gray level
 - Equalization
+### Praktikum 4
+- Filter Rerata
+- Filter median
+- Filter batas
+- Konvolusi
 
 [_Intelligent Computing Laboratory_](https://www.instagram.com/seic_itpln/)
